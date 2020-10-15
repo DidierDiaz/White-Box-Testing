@@ -136,4 +136,10 @@ the call to round function.
 
 - For transfer: Compute and apply the test cases that result from basis path testing.
 
-You can find 
+For each of the Hunit tests you can find:
+
+1) The test cases I have created. This part has two sections. In the first section I have commented on the process. In the second section I have the tables with the test cases.
+
+2) The test results. Here, I provided a table indicating the test case and whether the test passed or failed.
+
+3) The code
